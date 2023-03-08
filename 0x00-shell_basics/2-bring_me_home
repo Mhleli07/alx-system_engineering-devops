@@ -1,2 +1,2 @@
 #!/bin/bash
-user = "root" pwd  cd ~ HOME
+user = "root" pwd cd ~$HOME
